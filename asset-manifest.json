@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.35ba9739.js",
-    "static/js/787.349254e3.chunk.js": "/static/js/787.349254e3.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.35ba9739.js.map": "/static/js/main.35ba9739.js.map",
-    "787.349254e3.chunk.js.map": "/static/js/787.349254e3.chunk.js.map"
+    "main.css": "/miau-practice/static/css/main.073c9b0a.css",
+    "main.js": "/miau-practice/static/js/main.dea1c824.js",
+    "static/js/787.349254e3.chunk.js": "/miau-practice/static/js/787.349254e3.chunk.js",
+    "index.html": "/miau-practice/index.html",
+    "main.073c9b0a.css.map": "/miau-practice/static/css/main.073c9b0a.css.map",
+    "main.dea1c824.js.map": "/miau-practice/static/js/main.dea1c824.js.map",
+    "787.349254e3.chunk.js.map": "/miau-practice/static/js/787.349254e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.35ba9739.js"
+    "static/js/main.dea1c824.js"
   ]
 }
